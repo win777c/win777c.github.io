@@ -1,0 +1,226 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>큐브리드 소식</title>
+    <link>http://www.cubrid.org/blog</link>
+    <description>CUBRID.org</description>
+    <lastBuildDate>Wed, 7 Aug 2013 00:00:00 +0900</lastBuildDate>
+    <!-- Announcement -->
+    <item>
+      <title><![CDATA['시작하세요! 큐브리드' 전자책 무료 다운로드 안내]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3794731]]></link>
+      <pubDate><![CDATA[Tue, 07 Feb 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[오픈 테크넷 서밋 2017 행사 안내 - 6/21(수)]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3837116]]></link>
+      <pubDate><![CDATA[Mon, 12 Jun 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[네이버 클라우드 플랫폼 CUBRID 상품 출시]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3836490]]></link>
+      <pubDate><![CDATA[Thu, 08 Jun 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[제8회 클라우드 프론티어 2017 행사 안내 - 6/20(화)]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3836415]]></link>
+      <pubDate><![CDATA[Thu, 08 Jun 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Announcement]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- Release Note -->
+    <item>
+      <title><![CDATA[CUBRID 9.3 Patch 8, 9.2 Patch 28 릴리스]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3816082]]></link>
+      <pubDate><![CDATA[Wed, 12 Apr 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID Manager 9.3.6.007 릴리스]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3795442]]></link>
+      <pubDate><![CDATA[Thu, 09 Feb 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID 9.3 Patch 7, 9.2 Patch 27, 8.4.4 Patch 17, 8.4.1 Patch 33 릴리스]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3784083]]></link>
+      <pubDate><![CDATA[Wed, 04 Jan 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID Manager 9.3.6.006 릴리스]]></title>
+      <link><![CDATA[http://www.cubrid.com/zbxe/3792361]]></link>
+      <pubDate><![CDATA[Wed, 04 Jan 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[ReleaseNews]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- MajorFeatures -->
+    <item>
+      <title><![CDATA[CM에서 쿼리 실행하기]]></title>
+      <link><![CDATA[http://www.cubrid.org/manual/ko/9.3.0/cm/query_editor.html]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[MajorFeatures]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- HowStart -->
+    <!-- UsefulLinks -->
+    <item>
+      <title><![CDATA[CUBRID 이슈 트래커]]></title>
+      <link><![CDATA[http://jira.cubrid.org/browse/CBRD]]></link>
+      <pubDate><![CDATA[Thu, 15 Jun 2017 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID 파일 다운로드]]></title>
+      <link><![CDATA[http://cubrid.org/downloads]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID 매뉴얼]]></title>
+      <link><![CDATA[http://cubrid.org/documentation/manuals]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CUBRID 소스코드]]></title>
+      <link><![CDATA[https://github.com/CUBRID/cubrid]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[UsefulLinks]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- Tutorials -->
+    <item>
+      <title><![CDATA[Package로부터 install]]></title>
+      <link><![CDATA[http://cubrid.org/downloads/linux/64-bit/engine/install-package/]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Tutorials]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[소스코드로부터 install]]></title>
+      <link><![CDATA[http://cubrid.org/downloads/linux/64-bit/engine/install-source/]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Tutorials]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Java를 이용하여 CUBRID 연동하기]]></title>
+      <link><![CDATA[http://cubrid.org/documentation/getting-started/java-program]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[Tutorials]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[]]></description>
+    </item>
+    <!-- TechTrends -->
+    <item>
+      <title><![CDATA[HTTPS 전환 후 서버 메모리는 안녕한가요?]]></title>
+      <link><![CDATA[http://d2.naver.com/helloworld/8842776]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[TechTrends]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[Apache 웹 서버에 HTTPS와 HTTP/2를 적용한 다음 메모리 누수(memory leak) 현상이 발생했습니다. 서버마다 메모리가 80% 이상 사용되고 있어 메모리를 4GB에서 8GB로 늘렸지만 문제가 해결되지 않았습니다. 원인은 Apache의 nss-softokn 패키지에서 사용하는 환경 변수인 'NSS_SDB_USE_CACHE'의 설정 때문이었습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[2017년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript]]></title>
+      <link><![CDATA[http://d2.naver.com/helloworld/0473039]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[TechTrends]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA["2017년과 이후 JavaScript의 동향" 시리즈의 두 글에서는 ECMAScript의 브라우저 구현 상태와 주요한 기능을 중심으로 JavaScript의 변화를 살펴보고, JavaScript 라이브러리와 프레임워크의 동향을 알아봤습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[빅데이터 다차원 분석 플랫폼, Kylin]]></title>
+      <link><![CDATA[http://d2.naver.com/helloworld/1057065]]></link>
+      <pubDate><![CDATA[Fri, 24 May 2013 00:00:00 +0900]]></pubDate>
+      <dc:creator/>
+      <category><![CDATA[TechTrends]]></category>
+      <category><![CDATA[CM]]></category>
+      <category><![CDATA[CQB]]></category>
+      <category><![CDATA[CMT]]></category>
+      <description><![CDATA[대규모 데이터에서 데이터 인사이트를 얻는 것은 매우 어려운 일입니다. 특히 데이터 인사이트를 얻기 위해 몇 십억 건의 데이터에 다수의 GROUP BY 질의를 실시간으로 실행해 결과를 얻는 시스템을 구축하고 운영하는 것은 더더욱 어렵습니다.]]></description>
+    </item>
+  </channel>
+</rss>
